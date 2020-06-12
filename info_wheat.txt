@@ -1,0 +1,8 @@
+1. area
+2. perimeter
+3. compactness
+4. length of kernel,
+5. width of kernel,
+6. asymmetry coefficient
+7. length of kernel groove.
+8. type.of.seed
